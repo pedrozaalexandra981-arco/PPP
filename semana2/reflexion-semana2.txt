@@ -1,0 +1,15 @@
+La terminal es una herramienta muy importante para un desarrollador.
+Permite navegar entre carpetas y organizar archivos rápidamente.
+Con ella se pueden crear, mover o eliminar documentos fácilmente.
+Además, ayuda a mantener un proyecto ordenado y bien estructurado.
+Muchas herramientas de programación funcionan mediante comandos.
+Por eso, conocer la terminal facilita el trabajo técnico.
+También ayuda a trabajar mejor en equipo en proyectos grandes.
+Su uso permite ahorrar tiempo en tareas repetitivas.
+La terminal brinda mayor control sobre el sistema y los archivos.
+Un desarrollador puede solucionar problemas de manera más eficiente.
+Aprender comandos básicos mejora las habilidades tecnológicas.
+Además, fortalece la lógica y el pensamiento computacional.
+Es una herramienta muy utilizada en ambientes profesionales.
+Dominarla representa una ventaja importante en el mundo laboral.
+En conclusión, la terminal es esencial para cualquier desarrollador.
