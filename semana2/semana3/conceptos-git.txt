@@ -1,0 +1,3 @@
+Un repositorio es un espacio donde los desarrolladores guardan y organizan los archivos de un proyecto.
+Funciona como una biblioteca digital que permite almacenar cambios, compartir información y trabajar en equipo de manera ordenada.
+Además, ayuda a mantener seguro el progreso del proyecto y facilita recuperar versiones anteriores cuando sea necesario.
