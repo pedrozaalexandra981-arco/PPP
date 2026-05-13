@@ -1,3 +1,11 @@
 Un repositorio es un espacio donde los desarrolladores guardan y organizan los archivos de un proyecto.
 Funciona como una biblioteca digital que permite almacenar cambios, compartir información y trabajar en equipo de manera ordenada.
-Además, ayuda a mantener seguro el progreso del proyecto y facilita recuperar versiones anteriores cuando sea necesario.
+Además, ayuda a mantener seguro el progreso del proyecto y facilita recuperar versiones anteriores cuando sea necesarios
+
+Un commit es una acción que permite guardar los cambios realizados en un proyecto de software.
+Funciona como un registro que muestra qué modificaciones se hicieron y en qué momento se realizaron.
+Además, ayuda a mantener el trabajo organizado y facilita recuperar versiones anteriores cuando sea necesario.
+
+Un push es una acción que permite enviar los cambios guardados en un proyecto local hacia un repositorio compartido en línea.
+Gracias a esto, otros integrantes del equipo pueden ver y utilizar las actualizaciones realizadas.
+Además, ayuda a mantener el proyecto sincronizado, organizado y accesible para todos los desarrolladores.
